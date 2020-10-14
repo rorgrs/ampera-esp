@@ -1,0 +1,2 @@
+ID,Bytes,Byte0,Byte1,Byte2,Byte3,Byte4,Byte5,Byte6,Byte7
+0x620,8,"Elithion"
